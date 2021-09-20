@@ -33,5 +33,5 @@
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop"
-	]
+	],
 }

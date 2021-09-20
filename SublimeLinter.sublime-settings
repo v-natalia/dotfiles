@@ -6,5 +6,6 @@
     "osx": [
       "~/.rbenv/shims"
     ]
-  }
+  },
+  "lint_mode": "save",
 }
