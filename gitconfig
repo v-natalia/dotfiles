@@ -11,7 +11,7 @@
 
 [core]
   pager = less -FRSX
-	editor = subl -n -w  >/dev/null 2>&1
+	editor = code
 
 [alias]
   co = checkout
@@ -51,3 +51,5 @@
 [user]
 	email = nvegar@gmail.com
 	name = Natalia Vega
+[init]
+	defaultBranch = main
