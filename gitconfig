@@ -50,6 +50,6 @@
   mergeoptions = --no-edit
 [user]
 	email = nvegar@gmail.com
-	name = Natalia Vega
+	name = Natalia vega
 [init]
 	defaultBranch = main
